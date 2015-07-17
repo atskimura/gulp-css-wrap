@@ -1,0 +1,36 @@
+{
+  "name": "gulp-css-wrap",
+  "description": "Wrap CSS rules in a namespace",
+  "version": "0.1.0",
+  "homepage": "https://github.com/atskimura/gulp-css-wrap",
+  "author": {
+    "name": "Atsuhiko Kimura",
+    "email": "atskimura@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atskimura/gulp-css-wrap.git"
+  },
+  "licenses": "MIT",
+  "keywords": [
+    "gulpplugin",
+    "css"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "css-wrap": "^0.1.0",
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "mocha": "^2.2.5",
+    "should": "^7.0.2"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha -R spec"
+  }
+}
