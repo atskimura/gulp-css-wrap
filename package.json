@@ -1,7 +1,7 @@
 {
   "name": "gulp-css-wrap",
   "description": "Wrap CSS rules in a namespace",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "homepage": "https://github.com/atskimura/gulp-css-wrap",
   "author": {
     "name": "Atsuhiko Kimura",

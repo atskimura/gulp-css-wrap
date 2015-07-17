@@ -1,4 +1,4 @@
-# gulp-minify-css
+# gulp-css-wrap
 
 [gulp](http://gulpjs.com/) plugin to wrap CSS rules in a namespace, using [css-wrap](https://github.com/benignware/css-wrap)
 
